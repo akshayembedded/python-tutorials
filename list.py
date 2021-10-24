@@ -9,19 +9,7 @@ print(a)
 
 
 b="qwertyy"
-a.append("123")
-print(a)
-print(a)
-print(b)
-print(a.count("123"))
-a.extend(b)
-print(a)
-print(a.index("123"))
-a.insert(2,4444)
-print(a)
-a.pop(6)
-print(a)
-a.remove(4444)
-print(a)
+
 
 g="jrtgrt"
+ 
