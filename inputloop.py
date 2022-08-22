@@ -5,5 +5,5 @@ while 1:
     if(op=="n"):
         break
 
-for i in l:
+for i in l:#
     print(i)
