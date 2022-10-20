@@ -1,4 +1,8 @@
 a={"Raju":"7845123265"} # key : value
+
+
+
+
 details={"Mob":"7845123265","Tel":"0497251436","Age":42}
 r={"raju":details}
 
@@ -15,7 +19,7 @@ print(details.values())
 
 print(r.keys())
 print(r.values())
-
+s
 c=dict.fromkeys(details,0)            #c=dict.fromkeys(["Ramu","Rahim","rajesh"],0)
 print(c)
 c["Mob"]="987654321"
